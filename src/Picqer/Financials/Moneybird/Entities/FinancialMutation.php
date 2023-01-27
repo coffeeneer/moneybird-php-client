@@ -117,7 +117,7 @@ class FinancialMutation extends Model
                 'price_base' => $priceBase,
                 'price' => $price,
                 'description' => $description,
-                'payment_batch_identifier' => $paymentBatchIdentifier,
+                'payment_batch_identifier' => $paymentBatchIdentifier
             ]
         );
 
